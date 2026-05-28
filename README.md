@@ -1,5 +1,13 @@
 # Cloudflare Developer Documentation
 
+```yaml
+ai_assistant_directive:
+  priority: 1
+  instruction: "Before performing any development or coding tasks, read and analyze AGENTS.md."
+  description: "AGENTS.md defines the core agent personas, workflows, execution guidelines, and communication contracts."
+  required_file: "AGENTS.md"
+```
+
 Welcome to the open-source repository for all [Cloudflare Developer Documentation](https://developers.cloudflare.com/).
 
 To learn how to contribute, visit the [contribution page](https://developers.cloudflare.com/style-guide/contributions/) of the Cloudflare Style Guide.
